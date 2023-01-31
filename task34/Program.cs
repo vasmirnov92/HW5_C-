@@ -35,5 +35,5 @@ int CountChet(int[] arr)
 
 int[] array = GetArray(10, 100, 1000);
 Console.WriteLine(String.Join(" ", array));
-int count = CountChet(array);
-Console.WriteLine(count);
+int chetnie = CountChet(array);
+Console.WriteLine(chetnie);
